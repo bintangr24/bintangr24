@@ -1,4 +1,4 @@
-# Halo semua! 
+# Halo!
 Perkenalkan nama saya **Bintang Ramadhan**.\
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
 
